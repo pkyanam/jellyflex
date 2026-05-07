@@ -2,6 +2,14 @@
 
 Glassfin is an original, Plex-inspired Jellyfin web frontend. It uses Jellyfin's HTTP API for authentication, library browsing, continue watching, search, title details, series episodes, and direct video playback.
 
+## Screenshots
+
+![Library browsing](<Screenshot 2026-05-06 at 10.26.09 PM.png>)
+
+![Movie detail page](<Screenshot 2026-05-06 at 10.26.18 PM.png>)
+
+![Series detail page](<Screenshot 2026-05-06 at 10.26.37 PM.png>)
+
 ## Run
 
 Serve the workspace with any static server:
