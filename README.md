@@ -4,11 +4,22 @@ Glassfin is an original, Plex-inspired Jellyfin web frontend. It uses Jellyfin's
 
 ## Screenshots
 
-![Library browsing](<Screenshot 2026-05-06 at 10.26.09 PM.png>)
-
-![Movie detail page](<Screenshot 2026-05-06 at 10.26.18 PM.png>)
-
-![Series detail page](<Screenshot 2026-05-06 at 10.26.37 PM.png>)
+<table>
+  <tr>
+    <td>
+      <img src="Screenshot 2026-05-06 at 10.26.09 PM.png" alt="Library browsing" width="100%">
+    </td>
+    <td>
+      <img src="Screenshot 2026-05-06 at 10.26.18 PM.png" alt="Movie detail page" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="Screenshot 2026-05-06 at 10.26.37 PM.png" alt="Series detail page" width="100%">
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ## Run
 
